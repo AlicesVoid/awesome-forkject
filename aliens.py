@@ -1,3 +1,5 @@
+#Hello World! HB
+
 #!/usr/bin/env python
 """ pygame.examples.aliens
 
